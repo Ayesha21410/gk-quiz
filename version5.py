@@ -11,7 +11,7 @@ def get_range():
                 
                 break
             else:
-                print("The max is 5")
+                print("The max is 5 and the minimum is 1")
         except:
             pass
        

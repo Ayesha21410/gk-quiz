@@ -1,6 +1,4 @@
 
-
-
 #score mechanics
 while True:
         user_answer = input("Please enter you answer here :")
